@@ -1,0 +1,7 @@
+{
+    "name": "thunderwolf/lorem-ipsum",
+    "type": "library",
+    "description": "LoremIpsum library",
+    "keywords": ["loremipsum", "faker"],
+    "homepage": "http://thunderwolf.net/",
+}
