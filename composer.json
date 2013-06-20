@@ -3,5 +3,5 @@
     "type": "library",
     "description": "LoremIpsum library",
     "keywords": ["loremipsum", "faker"],
-    "homepage": "http://thunderwolf.net/",
+    "homepage": "http://thunderwolf.net/"
 }
