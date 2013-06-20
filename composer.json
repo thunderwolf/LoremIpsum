@@ -1,14 +1,21 @@
 {
-    "name": "thunderwolf/lorem-ipsum",
-    "type": "library",
-    "description": "LoremIpsum library",
-    "keywords": ["loremipsum", "faker"],
-    "homepage": "http://thunderwolf.net/",
-    "require": {
-        "php": ">=5.2.4"
-    },
-    "autoload": {
-        "classmap": ["src/"]
-    }
-
+	"name": "thunderwolf/lorem-ipsum",
+	"type": "library",
+	"description": "LoremIpsum library",
+	"keywords": ["loremipsum", "faker"],
+	"homepage": "http://thunderwolf.net/",
+	"license": "MIT",
+	"authors": [
+		{
+			"name": "Arkadiusz Tułodziecki",
+			"email": "atulodzi@gmail.com",
+			"homepage": "http://thunderwolf.net/"
+		}
+	],
+	"require": {
+		"php": ">=5.2.4"
+	},
+	"autoload": {
+		"classmap": ["src/"]
+	}
 }
